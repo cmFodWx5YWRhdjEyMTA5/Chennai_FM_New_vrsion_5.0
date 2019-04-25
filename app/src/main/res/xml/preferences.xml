@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="prefKey">
+
+    <CheckBoxPreference
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:defaultValue="true"
+        android:key="pref_enable_push_notifications"
+        android:summary="@string/pref_enable_push_notifications_summery"
+        android:title="@string/pref_enable_push_notifications_title" />
+
+    <Preference
+        android:key="privacy_policy"
+        android:summary="@string/privacy_content"
+        android:title="@string/privacy" />
+
+    <Preference
+        android:key="mail_feedback"
+        android:summary="@string/email_content"
+        android:title="@string/title_nav_email" />
+
+    <PreferenceScreen
+        android:summary="Developer"
+        android:title="@string/developer" />
+    <Preference
+        android:summary="@string/version"
+        android:title="Version" />
+
+</PreferenceScreen>

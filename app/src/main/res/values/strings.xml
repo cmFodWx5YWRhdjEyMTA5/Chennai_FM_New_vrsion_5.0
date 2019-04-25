@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Your application name-->
+    <string name="app_name">All Chennai Online Tamil FM</string>
+    <string name="version">Version 5.0</string>
+
+    <!--app about information-->
+    <string name="email">appsarasan@gmail.com</string>
+    <string name="developer">Apps Arasan</string>
+
+    <string name="website">http://www.appsarasan.com/</string>
+
+    <string name="facebook_app_id">1458911630886922</string>
+
+
+    <string name="Privacy_Policy">http://www.appsarasan.com/privacy_policy.html</string>
+    <string name="whatsapp_link">https://www.facebook.com/AppsArasan/</string>
+
+    <string name="downloading_wallpaper">Downloading Images…</string>
+    <string name="please_wait">Loading..Please Wait</string>
+    <string name="get_more_wall">@string/app_name</string>
+    <string name="share_wallpaper">Share Image as</string>
+
+    <string name="thirukkural_images">திருக்குறள்</string>
+    <string name="motivatioal">ஊக்கமூட்டும் வரிகள்</string>
+    <string name="devotional">ஆன்மீக வரிகள்</string>
+
+
+    <string name="premium_title">Go Premium</string>
+    <string name="premium_purchase">  GO PREMIUM  </string>
+    <string name="premium_noads">Remove Ads\n\nListen the FM App without Advertisement</string>
+    <string name="terms_conditions">http://www.appsarasan.com/terms-and-conditions.html</string>
+
+
+    <!--Change AdMob Banner and Interstitial ID-->
+    <string name="admob_app_id">ca-app-pub-7983134666560184~3740124375</string>
+    <!--<string name="admob_banner_id">ca-app-pub-7983134666560184/7098938974</string>-->
+    <!--<string name="admob_interstitial_id">ca-app-pub-7983134666560184/7936366163</string>-->
+    <!--<string name="native_ads">ca-app-pub-7983134666560184/6155454168</string>-->
+    <!--\\demo native-->
+    <string name="native_ads">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="notification">Notification</string>
+    <string name="fab_submit">Add Your Stations</string>
+    <string name="privacy">Privacy policy</string>
+    <string name="fab_favorite">Favorites</string>
+    <string name="fab_share">Share</string>
+    <string name="fab_rate">Rate Us</string>
+    <string name="fab_about">About Us</string>
+
+    <string name="title_nav_social">Our Social Links</string>
+    <string name="title_nav_email">Email</string>
+
+
+    <!--Value Enable and Disable AdMob-->
+    <string name="admob_on">0</string>
+
+    <!-- Set to @string/drawer_info_on to enable info-->
+    <!-- Set to @string/drawer_info_off to disable info-->
+    <!--Value Hide Info in Drawer Header-->
+    <string name="drawer_info_on">0</string>
+
+
+    <string name="bmi_calculator">BMI Calculators</string>
+
+
+    <string name="weightR">Weight(kg):</string>
+    <string name="ageR">Age :</string>
+    <string name="heightR">Height (cm):</string>
+    <string name="countButtonR">Calculate</string>
+
+    <string name="units">அலகு</string>
+    <string name="gender">பாலினம்  :</string>
+    <string name="body_fat_calculator">Body Fat Cacluator</string>
+    <string name="bmi1">BMI</string>
+    <string name="your_body_fat_percentage_as">Your Body Fat Percentage as</string>
+    <string name="lean_body_calculator">Lean Body Weight calculator</string>
+    <string name="lean_weight_without_fat">Your Weight (கொழுப்பு இல்லாமல்)</string>
+    <string name="bmi_string">your BMI (உடல் நிறை குறியீட்டெண்)</string>
+    <string name="the_prime_bmi_body_mass_index">உங்கள் Prime BMI (உடல் நிறை குறியீட்டெண்)</string>
+    <string name="weight_unit">kg</string>
+
+    <!--other string tag name-->
+    <string name="share_title">I am listening All Chennai Online FM</string>
+    <string name="share_content">I would recommend an excellent App for you\n\n
+Install All Chennai Online FM\n\n</string>
+
+    <string name="no_favorite">No Favorite Station Avaliable Here</string>
+    <string name="option_set_favorite">Add to Favorite list</string>
+    <string name="option_set_share"> Share this</string>
+    <string name="option_unset_favorite">Remove from Favorite list</string>
+    <string name="favorite_added">Station Added as Favorite</string>
+    <string name="favorite_removed">Remove from Favorite list</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <!-- For Notification Actions -->
+
+    <string name="str_orange">#fe7b27</string>
+    <string name="basic_action_1">Delete</string>
+    <string name="basic_action_2">Action_2</string>
+
+    <!-- settings screen -->
+    <string name="settings_title">Setting</string>
+    <string name="pref_enable_push_notifications_title">Notification</string>
+    <string name="pref_enable_push_notifications_summery">முக்கியமான செய்திகளைப் பெற இயக்கு.</string>
+    <string name="tems_conditions">Terms and Conditions</string>
+
+
+    <string name="all_channels">All Radio Stations</string>
+
+    <string name="set_timer">டைமர்</string>
+    <string name="cancel">டைமரை ரத்து செய்யா</string>
+    <string name="Set_Timer">டைமர் அமைக்க</string>
+    <string name="remove">டைமரை நீக்க </string>
+    <string name="delete">Delete All</string>
+    <string name="notification_delete">Remove all Notification?</string>
+    <string name="yes_btn">Yes</string>
+    <string name="no_btn">No</string>
+    <string name="no_announcements">No Recent Notification</string>
+
+    <string name="rate_dialog_title">Rate Us</string>
+    <string name="rate_dialog_message">உங்களுடைய  ரேட்டிங்ஸ் &amp; கருத்துக்கள் எங்களை  உயர்த்தும் . பயன்படுத்தியமைக்கு. நன்றி !!</string>
+    <string name="rate_dialog_ok">ஆம்</string>
+    <string name="rate_dialog_cancel">பின்னர் நினைவூட்டும்</string>
+    <string name="rate_dialog_no">இல்லை</string>
+
+    <string name="privacy_content">இந்த பயன்பாட்டிற்கான தனியுரிமை கொள்கை அறிய</string>
+    <string name="email_content">உங்களுடைய  ரேட்டிங்ஸ் &amp; கருத்துக்கள் எங்களை  உயர்த்தும் . பயன்படுத்தியமைக்கு நன்றி</string>
+
+    <string name="whatsapp">WhatsApp</string>
+    <string name="content1">நிறை குறைகளை அனுப்ப மின்னஞ்சல்</string>
+    <string name="content2">நண்பர்களுடன் இந்த பயனுள்ள செயலியை பகிர்ந்து உதவுங்கள். நன்றி</string>
+    <string name="ads_content">இணையத்தள உருவாக்கம் , ஆப்ஸ் உருவாக்கம், இணைய விளம்பரம் போன்ற சேவைகளுக்கு</string>
+    <string name="phone_call">Call Us</string>
+    <string name="no_data_found">No Image Avaliable</string>
+
+    <string name="end_splash_content">ஆப்ஸ் அரசனின் ஆப்ஸை பயன்படுத்தியமைக்கு  நன்றி.
+
+    மீண்டும் வருக
+
+    </string>
+</resources>

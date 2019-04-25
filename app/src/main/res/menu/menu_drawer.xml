@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+
+        <item
+            android:id="@+id/drawer_radio"
+            android:title="@string/all_channels"
+            android:icon="@drawable/nav_channels" />
+        <item
+            android:id="@+id/drawer_fav"
+            android:title="@string/fab_favorite"
+            android:icon="@drawable/nav_fav" />
+        <item
+            android:id="@+id/equalizer"
+            android:title="Equalizer"
+            android:icon="@drawable/music_equalizer" />
+
+        <item
+            android:id="@+id/ads_free"
+            android:title="@string/premium_title"
+            android:icon="@drawable/ad_free" />
+        <item
+            android:id="@+id/add"
+            android:title="@string/fab_submit"
+            android:icon="@drawable/nav_add_fm" />
+
+        <item
+            android:id="@+id/notification"
+            android:title="@string/notification"
+            android:icon="@drawable/nav_notify" />
+        <item
+            android:id="@+id/setting"
+            android:title="@string/settings_title"
+            android:icon="@drawable/nav_settings" />
+
+        <item
+            android:id="@+id/nav_facebook"
+            android:title="@string/title_nav_social"
+            android:icon="@drawable/nav_social" />
+
+
+        <item
+            android:id="@+id/drawer_privacy"
+            android:title="@string/privacy"
+            android:icon="@drawable/nav_privacy" />
+
+
+        <item
+            android:id="@+id/drawer_terms"
+            android:title="@string/tems_conditions"
+            android:icon="@drawable/nav_terms" />
+        <item
+            android:id="@+id/drawer_about"
+            android:title="@string/fab_about"
+            android:icon="@drawable/nav_about" />
+
+        <item
+            android:id="@+id/drawer_rate"
+            android:title="@string/fab_rate"
+            android:icon="@drawable/nav_rate" />
+
+        <item
+            android:id="@+id/drawer_share"
+            android:title="@string/fab_share"
+            android:icon="@drawable/nav_share" />
+    </group>
+</menu>

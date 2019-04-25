@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/sleep_dialog_title_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/set_timer"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/tabTextColor"
+        android:textSize="20sp" />
+
+    <com.lantouzi.wheelview.WheelView
+        android:id="@+id/wheelPicker"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_centerInParent="true"
+        app:lwvAdditionalCenterMark=" min"
+        app:lwvIntervalFactor="2"
+        app:lwvMarkRatio="0.4"
+        app:lwvMarkTextSize="14sp" />
+
+    <TextView
+        android:id="@+id/timer_set_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/navigationBarColor"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/remove_timer_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/background_color"
+        android:text="@string/remove"
+        android:textColor="@color/navigationBarColor"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/button_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/cancel_button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/background_color"
+            android:text="@string/cancel"
+            android:textColor="@color/navigationBarColor" />
+
+        <Button
+            android:id="@+id/set_button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/background_color"
+            android:text="@string/Set_Timer"
+            android:textColor="@color/navigationBarColor" />
+    </LinearLayout>
+
+</RelativeLayout>

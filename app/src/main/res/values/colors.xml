@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="top_color">#642397</color>
+    <color name="bottom_color">#642397</color>
+    <color name="transparent_bg">#a0000000</color>
+
+    <color name="app_theme">@color/top_color</color>
+
+    <color name="visulaizer_bg_color">#c8efebe9</color>
+
+    <color name="transparent_bg1">#42000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!--app main color-->
+    <color name="colorPrimary">@color/top_color</color>
+    <color name="colorPrimaryDark">@color/top_color</color>
+    <color name="colorAccent">#06003F</color>
+
+    <color name="background_color">#eeeeee</color>
+
+    <!--app tab color-->
+    <color name="tabIndicatorColor">#3141A1</color>
+    <color name="tabSelectedTextColor">#FFFFFF</color>
+    <color name="tabTextColor">#ffffff</color>
+
+    <!--swipe down refresh animation color-->
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+    <color name="red">#b70c20</color>
+    <color name="yellow">#e9da06</color>
+
+    <!--floating action button color-->
+    <color name="colorNormal">#00E5FF</color>
+    <color name="colorPressed">#00BCD4</color>
+    <color name="colorRipple">#00BCD4</color>
+
+    <!--text color-->
+    <color name="textColorBlack">#263238</color>
+    <color name="textColorGrey">#CeFeFe</color>
+
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#427AAB</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+
+    <color name="border1_light">#EF8D0E</color>
+    <color name="border1_dark">#FD6252</color>
+    <color name="border2_light">#B159CB</color>
+    <color name="border2_dark">#E23693</color>
+    <color name="border3_light">#50B1FD</color>
+    <color name="border3_dark">#1379F0</color>
+    <color name="border4_light">#F74D56</color>
+    <color name="border4_dark">#C4282E</color>
+    <color name="border5_light">#748BAC</color>
+    <color name="border5_dark">#455284</color>
+    <color name="border6_light">#1D71AF</color>
+    <color name="border6_dark">#0A3E93</color>
+
+    <color name="border7_light">#7BC847</color>
+    <color name="border7_dark">#48A529</color>
+    <color name="border8_light">#B82024</color>
+    <color name="border8_dark">#6F344B</color>
+    <color name="border9_light">#26B0AF</color>
+    <color name="border9_dark">#1A8788</color>
+    <color name="border10_light">#4A5E76</color>
+    <color name="border10_dark">#2B343D</color>
+    <color name="border11_light">#658DFF</color>
+    <color name="border11_dark">#8E4DFF</color>
+    <color name="border12_light">#51AFDC</color>
+    <color name="border12_dark">#307BC4</color>
+    <color name="border13_light">#FF3259</color>
+    <color name="border13_dark">#FF5135</color>
+    <color name="app_content_bg">#F4F5F1</color>
+    <color name="black">#000000</color>
+
+
+    <color name="color1">#FF0600</color>
+    <color name="color2">#FF0062</color>
+    <color name="color3">#AA00FF</color>
+    <color name="color4">#2196F3</color>
+    <color name="color5">#6200EA</color>
+    <color name="color6">#FF6F00</color>
+    <color name="color7">#00C853</color>
+    <color name="color8">#795548</color>
+    <color name="color9">#607D8B</color>
+    <color name="color10">#F44336</color>
+
+
+</resources>

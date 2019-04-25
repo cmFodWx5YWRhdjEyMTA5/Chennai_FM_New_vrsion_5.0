@@ -1,0 +1,221 @@
+{
+  "project_info": {
+    "project_number": "215648722044",
+    "firebase_url": "https://fm-apps-981c1.firebaseio.com",
+    "project_id": "fm-apps-981c1",
+    "storage_bucket": "fm-apps-981c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215648722044:android:4cf3e16e032988cd",
+        "android_client_info": {
+          "package_name": "com.chennaifmradiosongs.onlinemadrasradiostation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgGVukPQviFR2SyMDcXD0IGvVdKqS8YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215648722044:android:a339857afb435301",
+        "android_client_info": {
+          "package_name": "com.colombotamilradio.colombolivestreamingonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgGVukPQviFR2SyMDcXD0IGvVdKqS8YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215648722044:android:e0c58e4fa756776e",
+        "android_client_info": {
+          "package_name": "com.fmradiostationonline.maduraitamilsongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgGVukPQviFR2SyMDcXD0IGvVdKqS8YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215648722044:android:41091a4b3a745aa6",
+        "android_client_info": {
+          "package_name": "com.malaysiatamilradiolive.onlinemalaysiatamilfm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgGVukPQviFR2SyMDcXD0IGvVdKqS8YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215648722044:android:cbf6e88d0eb40433",
+        "android_client_info": {
+          "package_name": "com.srilankatamilfmradio.onlinelivestationlanka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgGVukPQviFR2SyMDcXD0IGvVdKqS8YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215648722044:android:7d7473f100c0c36a",
+        "android_client_info": {
+          "package_name": "com.tamilfmradiostations.onlinetamilsongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "215648722044-e50k7kijco9n6v9brunvn6vugngs8c50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgGVukPQviFR2SyMDcXD0IGvVdKqS8YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

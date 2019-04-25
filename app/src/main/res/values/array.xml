@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bmi">
+        <item>Kg/cm</item>
+        <item>lbs/in</item>
+    </string-array>
+
+
+    <string-array name="gender">
+        <item>ஆண்</item>
+        <item>பெண்</item>
+    </string-array>
+</resources>
